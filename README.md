@@ -7,6 +7,7 @@ Python 3
 Figlet
 
 To install python go to python.org/downloads/.
+
 To install figlet on the linux terminal type the following on the command prompt:
 
 `sudo apt-get install figlet`
