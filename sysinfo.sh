@@ -50,7 +50,7 @@ $(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "Uptime" "$my_uptime")
 $(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "CPU Model" "$my_cpu_model")
 $(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "CPU Sockets" "$my_cpu_sockets")
 $(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "CPU Cores/Socket" "$my_cpu_cores")
-$(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "CPU Logical Processors/Threads" "$my_cpu_lps")
+$(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "CPU Logical Processors" "$my_cpu_lps")
 
 $(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "Total Memory" "$my_mem_total GiB")
 $(printf "${WHITE}%-20s${NORMAL}: ${CYAN}%-20s${NORMAL}" "Free Memory" "$my_mem_free GiB")
