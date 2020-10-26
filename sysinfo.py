@@ -20,12 +20,12 @@ if figlet_install.upper() == "Y":
     pass
 
 #If user does not have figlet installed, in the background the program runs the Linux command for installing figlet
-if figlet_install.upper() == "N":
+elif figlet_install.upper() == "N":
     print("Installing figlet...")
     os.system("sudo apt-get install figlet")
 
 #If user doesn't enter y or n, throw an error exiting the program
-if figlet_install.upper() != "Y" and "N":
+elif figlet_install.upper() != "Y" and "N":
     sys.exit("Invalid input. Your input must either be Y or N (uppercase is not mandatory).")
 
 #Run figlet and get the name of the user's computer
