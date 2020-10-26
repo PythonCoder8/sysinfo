@@ -34,8 +34,8 @@ os.system("figlet %s" %(platform.node()))
 #Execute bash script sysinfo.sh
 sp.call("/mnt/e/bash/welcomewagon.sh")
 
-#End timer for findingexecution time of program
+#End timer for finding execution time of program
 end = time.time()
 
-#Display execution time
+#Display execution time  - Important: Sometimes the execution time might be a bit big but that would be because the user takes long to enter input
 print("Program execution time: %s seconds" %(end - start))
