@@ -4,7 +4,10 @@
 
 #Import all required libraries/modules
 import subprocess as sp
-import platform, os, sys, time
+import platform
+import os
+import sys
+import time
 
 #Create timer to get execution time
 start = time.time()
