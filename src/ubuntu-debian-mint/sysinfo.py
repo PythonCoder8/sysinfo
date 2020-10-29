@@ -1,6 +1,6 @@
 #Sysinfo.py - Get info about computer and OS
 #Only works if you run this program on Linux since this program calls a bash script
-#This code has only been tested on Ubuntu 20.04 LTS and may not work on any other distros of Linux
+#Ubuntu, Debian, and Linux Mint only
 
 #Import all required libraries/modules
 import subprocess as sp
