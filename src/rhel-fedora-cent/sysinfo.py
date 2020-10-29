@@ -1,6 +1,6 @@
 #Sysinfo.py - Get info about computer and OS
 #Only works if you run this program on Linux since this program calls a bash script
-#Only for RHEL Linux distro
+#Only for RHEL, Fedora, or CentOS Linux distro
 
 #Import all required libraries/modules
 import subprocess as sp
