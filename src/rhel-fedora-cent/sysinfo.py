@@ -12,7 +12,10 @@ import time
 #Create timer to get execution time
 start = time.time()
 
-#If not already installed, install figlet
+#Display Python version
+print("Python version: %s" %(platform.python_version()))
+
+#If not already installed, install figlet for program
 figlet_install = input("Do you have figlet installed on your linux terminal (Y/N)? ")
 
 if figlet_install.upper() == "Y":
