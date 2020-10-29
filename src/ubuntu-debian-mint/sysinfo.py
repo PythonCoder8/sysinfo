@@ -29,7 +29,7 @@ elif figlet_install.upper() != "Y" and "N":
 os.system("figlet %s" %(platform.node()))
 
 #Execute bash script sysinfo.sh
-sp.call("/mnt/e/bash/welcomewagon.sh")
+sp.call("sysinfo.sh")
 
 #End timer for finding execution time of program
 end = time.time()
