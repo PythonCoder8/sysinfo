@@ -1,6 +1,6 @@
 #!/bin/bash
-# Developed by: Cybergavin (Gavin)
-# Edited by   : PythonCoder8 (Ryan) 
+# Developed by: Cybergavin
+# Edited by   : PythonCoder8
 # Date        : 23rd October 2018
 # Description : Welcome Wagon - Bash script to display information about the system
 #               Tested on RHEL 7, CentOS 8, Raspbian 10, and Ubuntu 20.04 LTS
