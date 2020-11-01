@@ -1,5 +1,6 @@
 #!/bin/bash
-# Author      : mrkips (Cybergavin)
+# Developed by: Cybergavin (github.com/cybergavin)
+# Edited by   : PythonCoder8 (github.com/PythonCoder8)
 # Date        : 23rd October 2018
 # Description : Welcome Wagon - Displays useful information about the Linux Host.
 #               Tested on RHEL 7, CentOS 8 and Raspbian 10
