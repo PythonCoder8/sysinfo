@@ -16,6 +16,6 @@ PythonCoder8: [Link to PythonCoder8's Github profile](https://github.com/PythonC
 
 Cybergavin: [Link to Cybergavin's Github profile](https://github.com/cybergavin)
 
-"linux-python.png" is only for adding the image to this README
+"bash-python.png" is only for adding the image to this README
 
 ![Picture](https://raw.githubusercontent.com/PythonCoder8/System-info/main/linux-python.png)
