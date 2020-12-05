@@ -9,6 +9,7 @@ If that doesn't work properly you can run this command on the powershell:
 `Get-ComputerInfo`
 
 Please remember that the "Get-ComputerInfo" command only works on powershell and will not be recognized by the command prompt.
+
 Another way of getting system info on windows is using the code in my win-sysinfo repo.
 
 **CODE DEVELOPED BY: PythonCoder8 (me) and Cybergavin both from Oakville, Canada**
