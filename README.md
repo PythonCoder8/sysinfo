@@ -10,7 +10,9 @@ If that doesn't work properly you can run this command on the powershell:
 
 Please remember that the "Get-ComputerInfo" command only works on powershell and will not be recognized by the command prompt.
 
-Another way of getting system info on windows is using the code in my win-sysinfo repo.
+With Python 3 you can get system info on Windows with my "win-sysinfo" or "gui-win-sysinfo" repo, but that won't get much info.
+
+Though the best way to get system info on Windows is to use the keyboard shortcut "Windows + r" then type in the run window, "msinfo32.exe" and it will open the "System Information" application on your PC.
 
 **CODE DEVELOPED BY: PythonCoder8 (me) and Cybergavin both from Oakville, Canada**
 
