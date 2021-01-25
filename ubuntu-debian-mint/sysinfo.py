@@ -1,4 +1,5 @@
 #Sysinfo.py - Get info about computer and OS
+#Developed by PythonCoder8
 #Only works if you run this program on Linux since this program calls a bash script
 #Ubuntu, Debian, and Linux Mint only
 
@@ -15,9 +16,10 @@ start = time.time()
 #Display Python version
 print("Python version: %s" %(platform.python_version()))
 
-#If not already installed, install figlet and also clear screen
+#See if user has figlet installed, and if not installed, install it
 figlet_install = input("Do you have figlet installed on your linux terminal (Y/N)? ")
 
+#Clear terminal
 os.system("clear")
 
 if figlet_install.upper() == "Y":
