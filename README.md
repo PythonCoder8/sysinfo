@@ -4,7 +4,7 @@ without errors. To install the latest version of Python go to https://www.python
 
 With Python 3 you can get system info on Windows with my "win-sysinfo" or "gui-win-sysinfo" repo, but that won't get much info.
 
-**CODE DEVELOPED BY: PythonCoder8 (me) and Cybergavin both from Oakville, Canada**
+**CODE DEVELOPED BY: PythonCoder8 (me) and Cybergavin**
 
 PythonCoder8: [Link to PythonCoder8's Github profile](https://github.com/PythonCoder8)
 
