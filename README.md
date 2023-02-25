@@ -6,6 +6,4 @@ With Python 3 you can get system info on Windows with my "win-sysinfo" or "gui-w
 
 **CODE DEVELOPED BY: PythonCoder8 (me) and Cybergavin**
 
-PythonCoder8: [Link to PythonCoder8's Github profile](https://github.com/PythonCoder8)
-
 Cybergavin: [Link to Cybergavin's Github profile](https://github.com/cybergavin)
